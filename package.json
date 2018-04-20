@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/crsbcn/Bamazon-MySQL-App/issues"
   },
-  "homepage": "https://github.com/crsbcn/Bamazon-MySQL-App#readme"
+  "homepage": "https://github.com/crsbcn/Bamazon-MySQL-App#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
 }
